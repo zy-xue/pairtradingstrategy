@@ -1,1 +1,3 @@
 # pairtradingstrategy
+
+Pairs trading strategy.
